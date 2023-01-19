@@ -3,7 +3,7 @@ package com.example.hackathon;
 public class CompanyData {
     private String name_Company;
     private String username;
-
+    private String name;
 
 
     public CompanyData()
